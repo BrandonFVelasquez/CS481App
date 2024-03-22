@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pool-app/static/css/main.e6c13ad2.css",
-    "main.js": "/pool-app/static/js/main.853ec573.js",
-    "static/js/453.03b9146a.chunk.js": "/pool-app/static/js/453.03b9146a.chunk.js",
-    "static/media/CustomPoolBallBackground.png": "/pool-app/static/media/CustomPoolBallBackground.1cea3bc6976322d56271.png",
-    "static/media/BadBoy2.jpg": "/pool-app/static/media/BadBoy2.90bec40636bcb2834d1a.jpg",
-    "index.html": "/pool-app/index.html",
-    "main.e6c13ad2.css.map": "/pool-app/static/css/main.e6c13ad2.css.map",
-    "main.853ec573.js.map": "/pool-app/static/js/main.853ec573.js.map",
-    "453.03b9146a.chunk.js.map": "/pool-app/static/js/453.03b9146a.chunk.js.map"
+    "main.css": "/CS481App/static/css/main.e6c13ad2.css",
+    "main.js": "/CS481App/static/js/main.cfb8562b.js",
+    "static/js/453.03b9146a.chunk.js": "/CS481App/static/js/453.03b9146a.chunk.js",
+    "static/media/CustomPoolBallBackground.png": "/CS481App/static/media/CustomPoolBallBackground.1cea3bc6976322d56271.png",
+    "static/media/BadBoy2.jpg": "/CS481App/static/media/BadBoy2.90bec40636bcb2834d1a.jpg",
+    "index.html": "/CS481App/index.html",
+    "main.e6c13ad2.css.map": "/CS481App/static/css/main.e6c13ad2.css.map",
+    "main.cfb8562b.js.map": "/CS481App/static/js/main.cfb8562b.js.map",
+    "453.03b9146a.chunk.js.map": "/CS481App/static/js/453.03b9146a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.853ec573.js"
+    "static/js/main.cfb8562b.js"
   ]
 }
