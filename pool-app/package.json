@@ -1,5 +1,5 @@
 {
-  "homepage": "http://BadBoyz.github.io/pool-app",
+  "homepage": "https://brandonfvelasquez.github.io/CS481App/",
   "name": "pool-app",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
